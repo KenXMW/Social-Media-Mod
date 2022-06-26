@@ -2,7 +2,7 @@
 *.iml
 *.iws
 *.ipr
-eclipse/
+eclipse
 *.pydevproject
 .project
 .metadata
