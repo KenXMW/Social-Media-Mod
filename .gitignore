@@ -1,10 +1,5 @@
-.idea/
-*.iml
-*.iws
-*.ipr
-gradle
-build
 .gradle
-eclipse/logs
+.idea/
+build
 eclipse
-eclipse/saves
+gradle
