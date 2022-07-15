@@ -5,4 +5,15 @@ item.ItemTikTok.name=§f§nKenx TikTok
 item.ItemTwitter.name=§b§nKenx Twitter
 item.ItemWebsite.name=§6§nKenx Website
 item.ItemYoutube.name=§4§nKenx Youtube
+item.ItemInstagram.name=§4§nKenx Instagram
+
+tile.BlockYoutube.name=§4§nKenx Youtube Block
+tile.BlockDiscord.name=§4§nKenx Discord Block
+tile.BlockGithub.name=§4§nKenx Github Block
+tile.BlockInfo.name=§4§nKenx Info Block
+tile.BlockTikTok.name=§4§nKenx TikTok Block
+tile.BlockTwitter.name=§4§nKenx Twitter Block
+tile.BlockWebsite.name=§4§nKenx Website Block
+tile.BlockInstagram.name=§4§nKenx Instagram Block
+
 itemGroup.tabKenxMediaMod=Kenx Media Mod

@@ -2,3 +2,6 @@
 *.iml
 *.iws
 *.ipr
+gradle
+build
+.gradle
