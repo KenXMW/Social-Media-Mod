@@ -5,3 +5,6 @@
 gradle
 build
 .gradle
+eclipse/logs
+eclipse
+eclipse/saves
